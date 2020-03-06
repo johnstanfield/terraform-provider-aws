@@ -171,7 +171,7 @@ In addition to all arguments above, the following attributes are exported:
 
 ## Import
 
-Route53 Records can be imported using ID of the record. The ID is made up as ZONEID_RECORDNAME_TYPE_SET-IDENTIFIER
+Route53 Records can be imported using ID of the record. The ID is made up as ZONEID_RECORDNAME_TYPE_SET_IDENTIFIER
 
 e.g.
 
